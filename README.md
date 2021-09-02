@@ -1,4 +1,4 @@
 # Crema
 
-![Crema] (https://github.com/DamianZAR/Crema/blob/main/Llamame_Crema.jpg)
+Crema es una gatita que se perdió el 30 de agosto en Xalapa, Veracruz.
 
