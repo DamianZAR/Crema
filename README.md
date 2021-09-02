@@ -1,2 +1,2 @@
 # Crema
-Crema es una linda gata, quien se perdió el 30 de agosto. 
+Crema es una linda gata, perdida el 30 de agosto en Xalapa, Veracruz
